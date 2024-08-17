@@ -1,0 +1,11 @@
+testes unitarios
+workflows git hub/branchs
+anaconda como gerenciador de ambiente
+
+links:
+	https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/
+	https://ftp.ibge.gov.br/
+	https://dados.gov.br/signin
+	https://geoftp.ibge.gov.br/
+
+source ~/anaconda3/etc/profile.d/conda.sh - ativar conda
